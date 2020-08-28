@@ -25,7 +25,7 @@ Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you.
 
-My owner is [Online Promoter 🇮🇳](t.me/online_promoter)
+My owner is [Online Promoter](t.me/online_promoter)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
