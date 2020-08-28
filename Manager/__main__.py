@@ -22,6 +22,7 @@ from Manager.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hello {}, my name is {}!
 
+
 You know how hard it is sometimes to manage group so here is the solution for you.
 
 My owner is [FoodieMartMumbai 🇮🇳](t.me/foodiemartmumbai)
@@ -31,7 +32,7 @@ Click /help or Help button below to find out more about how to use me to my full
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-Group Management Bot with advanced features. 
+Flash Group Manager Bot with advanced features. 
 *Main* commands available:
  - /start: start the bot
  - /help: PM's you this message.
